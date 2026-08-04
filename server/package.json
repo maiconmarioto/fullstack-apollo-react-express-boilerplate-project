@@ -23,7 +23,7 @@
     "graphql-resolvers": "^0.2.2",
     "jsonwebtoken": "^8.3.0",
     "pg": "^7.4.3",
-    "sequelize": "^4.38.0"
+    "sequelize": "^6.37.8"
   },
   "devDependencies": {
     "axios": "^0.18.0",
